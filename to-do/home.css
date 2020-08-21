@@ -1,0 +1,41 @@
+.CHECKED{
+    color: gray;
+    text-decoration: line-through;
+}
+
+body{
+    background-image: url(akrales_170907_1974_0026_02.1504880732.jpg)
+}
+.CONTAINER{
+    background-color: white;
+    opacity: 0.9;
+}
+tr span{
+    display: none;
+    transition: linear;
+}
+tr:hover span{
+    display: inline;
+}
+
+@media only screen and (min-width: 1000px){
+    .CONTAINER{
+        width: 25%;
+    }
+}
+
+@media only screen and (max-width: 600px){
+    .CONTAINER{
+        width: 75%;
+    }
+}
+@media only screen and (min-width: 600px){
+    .CONTAINER{
+        width: 75%;
+    }
+}
+@media only screen and (min-width: 768px){
+    .CONTAINER{
+        width: 50%
+    }
+}
