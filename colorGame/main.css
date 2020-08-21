@@ -1,0 +1,31 @@
+.c{
+    height: 140px;
+    width: 140px;
+    background-color: aquamarine;
+    border: 2px solid black;
+}
+.COLOR{
+    background: rgb(68, 81, 155);
+}
+.c1{
+    background: rgb(0, 0, 0);
+}
+.c2{
+    background: rgb(0, 0, 0);
+}
+.c3{
+    background: rgb(0, 0, 0);
+}
+.c4{
+    background: rgb(0, 0, 0);
+}
+.c5{
+    background: rgb(0, 0, 0);
+}
+.c6{
+    background: rgb(0, 0, 0);
+}
+.fade{
+    transition-delay: 4s;
+    background-color: white;
+}

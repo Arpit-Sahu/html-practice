@@ -1,0 +1,194 @@
+*{
+    margin: 0px;
+}
+.head{
+    background-color: rgba(46, 80, 149, 0.94);
+    height: 13.5%;
+    width: 100%;   
+}
+.logo{
+    font-family:sans-serif;
+    font-size: 250%;
+    color:white;
+    font-weight:bold;
+    float: left;
+    margin-left: 8.6%;
+    letter-spacing: 0px;
+    margin-top: 2%
+}
+.button{
+    
+    height: 30px;
+    width: 138px;
+    background-color: #33b233;
+    float: left;
+    margin-left: 9px;
+    margin-top: 2.7%;
+    border-radius: 2px;
+    
+}.button:hover{
+    
+    height: 30px;
+    width: 138px;
+    background-color: rgba(51, 178, 51, 0.71);
+    float: left;
+    margin-left: 9px;
+    margin-top: 2.7%;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.text{
+  color: aliceblue;  
+    float: left;
+    margin-top: 3.5%;
+    margin-left: -130px;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+}
+.body{
+    height: 450px;
+    width: 100%;
+    border-radius: 2px;
+    background-color: rgba(128, 128, 128, 0.17);
+}
+.logInfo{
+    height: 280px;
+    width: 620px;
+    background-color: white;
+    float: left;
+    border: 1px solid rgba(145, 149, 145, 0.31);
+    margin-left: 310px;
+    margin-top: 90px;
+    border-radius: 4px;
+}
+
+.text1{
+    float:left; 
+    margin-left: 250px;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    margin-top: 40px;
+}
+.form{
+    float: left;
+    margin-left: 180px;
+    margin-top: 20px;
+    width: 300px;
+    height: 35px;
+    border: 1px solid rgba(145, 149, 145, 0.31);
+}
+.form1{
+    float: left;
+    margin-left: 180px;
+    margin-top: 10px;
+    width: 300px;
+    height: 35px;
+    border: 1px solid rgba(145, 149, 145, 0.31);
+}
+.logIn{
+    float: left;
+    font-family: sans-serif;
+    margin-left: 180px;
+    margin-top: 10px;
+    width: 300px;
+    height: 40px;
+    border-radius: 2px;
+    background-color: rgba(46, 80, 149, 0.94); 
+}.logIn:hover{
+    float: left;
+    font-family: sans-serif;
+    margin-left: 180px;
+    margin-top: 10px;
+    width: 300px;
+    height: 40px;
+    background-color: rgba(46, 80, 149, 0.84); 
+   cursor: pointer; 
+}
+.text2{
+    font-family: sans-serif;
+    text-decoration: none;
+    color: background-color: rgba(46, 80, 149, 0.94);
+    float: left;
+    margin-top: 12px;
+    margin-left: 210px;
+    font-size: 12px;
+   
+}.text2:hover{
+    font-family: sans-serif;
+    float: left;
+    margin-top: 12px;
+    margin-left: 210px;
+    font-size: 12px;
+    cursor: text;
+    
+   
+}
+.text3{
+    float: left;
+    font-weight: 500;
+    color: white;
+    margin-left: 130px;
+    margin-top:10px;
+}
+
+.img{
+    margin-left: 125px;
+    margin-top: 15px;
+    float: left;
+    height:50px;
+    width 90px;
+}
+
+.img:hover{
+    margin-left: 125px;
+    
+    float: left;
+    height:50px;
+    width 90px;
+    cursor: pointer;
+}
+
+.p1{
+    text-decoration: none;
+    color: rgba(46, 101, 149, 0.94);
+}
+.p1:hover{
+    text-decoration: none;
+    color: rgba(46, 80, 149, 0.94);
+    text-decoration: underline;
+    cursor: pointer;
+}
+.footer{
+    float: left;
+    margin-left: 150px;
+    font-family: sans-serif;
+    font-size: 12px;
+    color: rgba(46, 101, 149, 0.94);
+}
+.footer:hover{
+    float: left;
+    margin-left: 150px;
+    font-family: sans-serif;
+    font-size: 12px;
+    color: rgba(46, 101, 149, 0.94);
+    
+}
+
+.f1{
+    color: gray;
+    cursor: text;
+}
+.f2{
+    word-spacing: 5px;
+    cursor: pointer;
+}
+.f3{
+    word-spacing: 10px;
+}
+.f3{
+    word-spacing: 10px;
+    cursor: pointer;
+}
+
